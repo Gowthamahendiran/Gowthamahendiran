@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamahendiran&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamahendiran" /> </p>
 
-- 🌱 Iam a MERN Stack Developer
-
-- 👨‍💻 All of my projects are available at [http://gowthamportfolio.wuaze.com/](http://gowthamportfolio.wuaze.com/)
+- 🌱 I am a MERN Stack Developer
 
 - 💬 Learning Web Technologies & How the Logical world works
+
+- 👨‍💻 All of my projects are available at [http://gowthamportfolio.wuaze.com/](http://gowthamportfolio.wuaze.com/)
 
 - 📫 How to reach me **gowthamahendiran@gmail.com**
 
