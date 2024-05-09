@@ -14,8 +14,6 @@
 
 ---
 
-<br>
-
 
 ### 🔭 **Technology Stack**
 
@@ -89,8 +87,6 @@
 
 
 ---
-<br/>
-<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamahendiran&label=Total%20Visitor&color=0e75b6&style=flat" alt="gowthamahendiran" /> </p>
 
