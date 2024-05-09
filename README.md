@@ -9,7 +9,7 @@
 
 - All of my projects are available at [http://gowthamportfolio.wuaze.com/](http://gowthamportfolio.wuaze.com/)
 
-- How to reach me **gowthamahendiran@gmail.com**
+- Reach me - **gowthamahendiran@gmail.com**
 
 
 ---
