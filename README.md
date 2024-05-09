@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamahendiran&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamahendiran" /> </p>
 
-- 🌱 I’m currently learning **Next.Js and Express.Js**
+- 🌱 Iam a MERN Stack Developer
 
 - 👨‍💻 All of my projects are available at [http://gowthamportfolio.wuaze.com/](http://gowthamportfolio.wuaze.com/)
 
-- 💬 Ask me about **MERN, Website Development and Website Design**
+- 💬 Learning Web Technologies & How the Logical world works
 
 - 📫 How to reach me **gowthamahendiran@gmail.com**
 
