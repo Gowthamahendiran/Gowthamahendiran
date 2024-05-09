@@ -1,27 +1,98 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamahendiran&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamahendiran" /> </p>
+<br >
 
-- 🌱 I am a MERN Stack Developer
+- Learning Web Technologies & How the Logical world works
 
-- 💬 Learning Web Technologies & How the Logical world works
+- All of my projects are available at [http://gowthamportfolio.wuaze.com/](http://gowthamportfolio.wuaze.com/)
 
-- 👨‍💻 All of my projects are available at [http://gowthamportfolio.wuaze.com/](http://gowthamportfolio.wuaze.com/)
+- How to reach me **gowthamahendiran@gmail.com**
 
-- 📫 How to reach me **gowthamahendiran@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gowtham-mahendiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowtham-mahendiran" height="30" width="40" /></a>
-<a href="https://instagram.com/gowthammahi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gowthammahi_" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+### 🔭 **Technology Stack**
+
+#### **Languages**:
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
+<img height=25 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;&nbsp;
+</a>
+<a href="https://reactjs.org/docs/getting-started.html">
+<img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
+</a>
+<a href="http://expressjs.com/en/starter/installing.html">
+<img height=25 src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
+</a>
+<a href="https://nodejs.org/en/">
+<img height=25 src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
+</a>
+
+#### **Visual Design Libraries**:
+
+<a href="https://tailwindcss.com/docs/installation">
+<img height=25 src="https://img.shields.io/badge/tailwindcss-%23404d59.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB">&nbsp;&nbsp;
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img height=25 src="https://img.shields.io/badge/CSS-%23404d59.svg?style=for-the-badge&logo=css3&logoColor=%2361DAFB">&nbsp;&nbsp;
+</a>
+<a href="https://mui.com/">
+<img height=25 src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">&nbsp;&nbsp;
+</a>
+<a href="https://styled-components.com/docs">
+<img height=25 src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp;&nbsp;
+</a>
+
+#### **Databases**:
+
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16">
+<img height=25 src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">&nbsp;&nbsp;
+</a>
+<a href="https://www.mongodb.com/docs/manual/introduction/">
+<img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
+</a>
+<a href="https://dev.mysql.com/doc/">
+<img height=25 src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+</a>
+
+#### **Other Tools**:
+
+<a href="https://wordpress.org/documentation/">
+<img height=25 src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">&nbsp;&nbsp;
+</a>
+<a href="https://learn.microsoft.com/en-us/power-apps/">
+<img height=25 src="https://img.shields.io/badge/Power%20Apps-8a00c2?style=for-the-badge&logo=powerapps&logoColor=white">&nbsp;&nbsp;
+</a>
+<a href="https://help.figma.com/hc/en-us">
+<img height=25 src="https://img.shields.io/badge/Figma-F07857?style=for-the-badge&logo=figma&logoColor=white">&nbsp;&nbsp;
+</a>
+<a href="https://www.canva.com/docs/">
+<img height=25 src="https://img.shields.io/badge/Canva-43a5be?style=for-the-badge&logo=canva&logoColor=white">&nbsp;&nbsp;
+</a>
+
+
+---
+
+## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+
+<a href="https://github.com/Gowthamahendiran"><img height=25 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;</a>
+<a href="mailto:contact.gowthamahendiran@gmail.com"><img height=25 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/gowtham-mahendiran/"><img height=25 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;</a>
+<a href="https://instagram.com/gowthammahi_"><img height=25 src="https://img.shields.io/badge/Instagram-d10fb1?style=for-the-badge&logo=instagram&logoColor=white">&nbsp;&nbsp;</a>
+
+
+---
+<br/>
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamahendiran&label=Total%20Visitor&color=0e75b6&style=flat" alt="gowthamahendiran" /> </p>
+
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowthamahendiran&show_icons=true&locale=en&layout=compact" alt="gowthamahendiran" /></p>
