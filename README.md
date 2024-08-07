@@ -7,7 +7,7 @@
 
 - Learning Web Technologies & How the Logical world works
 
-- All of my projects are available at [http://gowthamportfolio.wuaze.com/](http://gowthamportfolio.wuaze.com/)
+- All of my projects are available at [https://gowthamahendiran.github.io/Portfolio/](https://gowthamahendiran.github.io/Portfolio/)
 
 - Reach me - **gowthamahendiran@gmail.com**
 
